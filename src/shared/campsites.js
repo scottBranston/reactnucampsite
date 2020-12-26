@@ -53,9 +53,9 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "This place rules!",
+                author: "David Rockman",
+                date: "2018-09-25T16:30Z"
             },
             {
                 id: 1,
@@ -97,9 +97,9 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "So many breadcrumbs... so little time!",
+                author: "Betty Baker",
+                date: "2019-08-25T16:30Z"
             },
             {
                 id: 1,
@@ -141,9 +141,9 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "Don't you dare Redux my woods. Absolutely gorgeous!",
+                author: "Lefty Fuller",
+                date: "2017-07-25T16:30Z"
             },
             {
                 id: 1,
