@@ -38,7 +38,7 @@ function CampsiteInfo(props)
             );
         } 
         return(
-            <div></div>
+            <div className="text: center">404 - Campsite Not Found!</div>
         );
     }
 
