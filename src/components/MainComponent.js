@@ -11,7 +11,6 @@ import { CAMPSITES } from '../shared/campsites';
 import { COMMENTS } from '../shared/comments';
 import { PARTNERS } from '../shared/partners';
 import { PROMOTIONS } from '../shared/promotions';
-import { TransitionPropTypeKeys } from 'reactstrap/lib/utils';
 
 class Main extends Component {
     constructor(props) {
