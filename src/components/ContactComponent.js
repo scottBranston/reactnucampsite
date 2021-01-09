@@ -53,8 +53,7 @@ class Contact extends Component {
         })
     }
 
-    render(){
-
+    render() {
         return (
             <div className="container">
                 <div className="row">
@@ -203,7 +202,7 @@ class Contact extends Component {
                                     </div>
                                 </Col>
                                 <Col md={4}>
-                                    <Control.select modal=".contactType" name="contactType"
+                                    <Control.select model=".contactType" name="contactType"
                                         className="form-control" >
                                         <option>By Phone</option>
                                         <option>By Email</option>
@@ -213,7 +212,7 @@ class Contact extends Component {
                             <Row className="form-group">
                                 <Label htmlFor="feedback" md={2}>Your Feedback</Label>
                                 <Col md={10}>
-                                    <Control.textarea modal=".feedback" id="feedback" name="feedback"
+                                    <Control.textarea model=".feedback" id="feedback" name="feedback"
                                         rows="12"
                                         className="form-control" 
                                     />
