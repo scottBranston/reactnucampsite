@@ -64,3 +64,21 @@ h2 {
   opacity: 0;
   transition: 300ms ease-in;
 }
+
+.example-enter {
+  opacity: 0;
+}
+
+.example-enter-active {
+  opacity: 1;
+  transition: opacity 300ms ease-out;
+}
+
+.example-exit {
+  opacity: 1;
+}
+
+.example-exit-active {
+  opacity: 0;
+  transition: opacity 300ms ease-in;
+}
